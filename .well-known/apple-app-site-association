@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "YV6CZVCEM3.com.mixaimaging.Paint-By-Number-Swift"
+        ],
+        "components": [
+          {
+            "/": "/forios",
+            "comment": "Opens https://mixaimaging.com in the app"
+          }
+        ]
+      }
+    ]
+  }
+}
