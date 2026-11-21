@@ -11,6 +11,30 @@
             "comment": "Opens https://mixaimaging.com in the app"
           }
         ]
+      },
+    "details": [
+      {
+        "appIDs": [
+          "YV6CZVCEM3.com.mixaimaging.MDScan"
+        ],
+        "components": [
+          {
+            "/": "/mdscanios_link",
+            "comment": "Opens https://mixaimaging.com in the app"
+          }
+        ]
+      },
+    "details": [
+      {
+        "appIDs": [
+          "YV6CZVCEM3.com.mixaimaging.MDScanLite"
+        ],
+        "components": [
+          {
+            "/": "/mdscanliteios_link",
+            "comment": "Opens https://mixaimaging.com in the app"
+          }
+        ]
       }
     ]
   }
