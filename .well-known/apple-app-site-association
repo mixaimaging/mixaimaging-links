@@ -8,11 +8,10 @@
         "components": [
           {
             "/": "/pbnios_link",
-            "comment": "Opens https://mixaimaging.com in the app"
+            "comment": "Opens https://mixaimaging.com in Paint By Number"
           }
         ]
       },
-    "details": [
       {
         "appIDs": [
           "YV6CZVCEM3.com.mixaimaging.MDScan"
@@ -20,11 +19,10 @@
         "components": [
           {
             "/": "/mdscanios_link",
-            "comment": "Opens https://mixaimaging.com in the app"
+            "comment": "Opens https://mixaimaging.com in MDScan"
           }
         ]
       },
-    "details": [
       {
         "appIDs": [
           "YV6CZVCEM3.com.mixaimaging.MDScanLite"
@@ -32,7 +30,7 @@
         "components": [
           {
             "/": "/mdscanliteios_link",
-            "comment": "Opens https://mixaimaging.com in the app"
+            "comment": "Opens https://mixaimaging.com in MDScan Lite"
           }
         ]
       }
